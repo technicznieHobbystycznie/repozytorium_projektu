@@ -1,0 +1,1 @@
+print('od siebie')
